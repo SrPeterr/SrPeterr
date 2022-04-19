@@ -7,8 +7,8 @@ I'm **SrPeter**, a passionate self-taught development 🚀 from Spain.
 
 📱 **About me:**
 
--   👨🏽‍💻 I’m currently working on [EdorasRP](https://edorasrp.es/),
--   🌱 I'm a 25 years old,
+-   👨🏽‍💻 I’m currently working on [EdorasRP](https://edorasrp.es/)
+-   🌱 I'm a 25 years old
 
 ---
 
@@ -22,10 +22,10 @@ I'm **SrPeter**, a passionate self-taught development 🚀 from Spain.
 
 💻 **My technologies**
 
-<code><img height="20" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></code>
+[<code><img height="20" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></code>](https://laravel.com/)
+[<code><img height="20" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>](https://getbootstrap.com/)
+[<code><img height="20" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></code>](https://mariadb.org/)
+[<code><img height="20" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></code>](https://www.nginx.com/)
 
 ---
 
