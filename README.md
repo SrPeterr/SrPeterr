@@ -32,5 +32,5 @@ I'm **SrPeter**, a passionate self-taught development 🚀 from Spain.
 🌐 **Social media**
 
 [<code><img height="20" src="https://img.shields.io/badge/SrPeterr-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></code>](https://www.twitch.tv/srpeterr)
-[<code><img height="20" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></code>](https://twitter.com/glazk0)
-[<code><img height="20" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></code>](https://github.com/glazk0)
+[<code><img height="20" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></code>](https://twitter.com/SrPeterP)
+[<code><img height="20" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></code>](https://github.com/srpeterr)
